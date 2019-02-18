@@ -1,7 +1,6 @@
 package org.demo.controller;
 
 import org.demo.DemoService;
-import org.demo.model.Greeting;
 import org.junit.Before;
 import org.junit.Test;
 
