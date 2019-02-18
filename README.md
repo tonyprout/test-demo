@@ -1,8 +1,8 @@
 Test Demo
 ===
 
-This is a ridiculous over designed Hello World application. The idea behind this
-is to have a simple rest endpoint with Cucumber acceptance tests and to have 100%
+This is a ridiculously over designed Hello World application. The idea behind this
+is to have a simple project showing an example of Cucumber acceptance tests and to have 100%
 unit test coverage.
 
 Build
