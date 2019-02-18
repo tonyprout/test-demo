@@ -12,7 +12,7 @@
     <artifactId>demo-acceptance</artifactId>
 
     <properties>
-        <coverage.exclusions>**/*Configuration.*</coverage.exclusions>
+        <coverage.exclusions>**/*ITCucumberTest.*</coverage.exclusions>
         <cucumber.version>4.2.3</cucumber.version>
     </properties>
 
